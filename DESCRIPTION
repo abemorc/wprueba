@@ -19,6 +19,6 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     stringr
-URL: https://github.com/abemorc/wprueba
+URL: https://github.com/abemorc/wprueba, https://abemorc.github.io/wprueba/
 BugReports: https://github.com/abemorc/wprueba/issues
 VignetteBuilder: knitr
