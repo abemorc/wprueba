@@ -18,6 +18,7 @@ knitr::opts_chunk$set(
 # wprueba
 
 <!-- badges: start -->
+[![CRAN status](https://www.r-pkg.org/badges/version/wprueba)](https://CRAN.R-project.org/package=wprueba)
 <!-- badges: end -->
 
 Solo hay tres funciones, todas triviales

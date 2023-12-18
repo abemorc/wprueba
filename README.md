@@ -7,6 +7,9 @@ caracteristicas web**
 # wprueba
 
 <!-- badges: start -->
+
+[![CRAN
+status](https://www.r-pkg.org/badges/version/wprueba)](https://CRAN.R-project.org/package=wprueba)
 <!-- badges: end -->
 
 Solo hay tres funciones, todas triviales
@@ -36,7 +39,7 @@ hello
 #> {
 #>     print("Hello, world!")
 #> }
-#> <bytecode: 0x000001d8bc0b7138>
+#> <bytecode: 0x000001b0f810c970>
 #> <environment: namespace:wprueba>
 ```
 
