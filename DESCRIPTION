@@ -1,11 +1,19 @@
 Package: wprueba
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Enviar Mensajes A Traves
 Version: 0.1.0
-Author: Who wrote it
+Authors@R: person("Abelardo", "Morales", email = "abemorca@gmail.com",
+  role = c("aut", "cre"))
 Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Description: Sirve para poder algo, que en este monento 
+    no se que es exactamente.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Imports: 
+    stringr
