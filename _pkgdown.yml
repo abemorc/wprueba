@@ -1,4 +1,14 @@
 url: https://abemorc.github.io/wprueba/
 template:
+  assets: assets
   bootstrap: 5
-
+lang: es
+navbar:
+  structure:
+    left:  [intro, reference, articles, tutorials, news]
+    right: [descargar, github]
+  components:
+    descargar:
+      icon: fa-twitter
+      href: Module1.zip
+      aria-label: Twitter
